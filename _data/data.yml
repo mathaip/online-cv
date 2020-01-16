@@ -12,40 +12,34 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: mputhiakunnel@gmail.com
+    phone: +1-416-854-4450
+    linkedin: mathaiputhiakunnel
+    github: mathaip
+    
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Hindi
+        level: intermediate
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Mandarin
+        level: basic
 
     interests:
-      - item: Climbing
+      - item: Sports
         link:
 
-      - item: Snowboarding
+      - item: Emerging Technology
         link:
 
-      - item: Cooking
+      - item: Travel
         link:
 
 career-profile:
-    title: Career Profile
+    title: Blockchain Developer 
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
