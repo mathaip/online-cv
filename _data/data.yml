@@ -7,22 +7,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Mathai
+    tagline: Blockchain Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: mputhiakunnel@gmail.com
+    phone: +1416-854-4450
+    linkedin: linkedin.com/in/mathaiputhiakunnel
+    github: github.com/mathaip
+    
 
     languages:
       - idiom: English
@@ -35,13 +29,13 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Sports
         link:
 
-      - item: Snowboarding
+      - item: Gaming
         link:
 
-      - item: Cooking
+      - item: Travel
         link:
 
 career-profile:
